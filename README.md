@@ -2,7 +2,7 @@
 spam_detection_using_cohere
 
 
-This is a direct application of uing cohere's Large language models to do spam detection.
+This is a direct application of using cohere's Large language models to do spam detection.
 
 It is simply 2 steps:
 1 - Fine tune the model to your specific language task.
