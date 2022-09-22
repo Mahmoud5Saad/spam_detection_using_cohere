@@ -1,0 +1,16 @@
+The confidence levels of the labels are: [cohere.Classification {
+	input: you may now claim your FREE CAMERA PHONE upgrade. We value you as a customer and want to give you the best service. It will only cost delivery charges $50!
+	prediction: Spam
+	confidence: [cohere.Confidence {
+	label: Non-Spam
+	confidence: 0.0005061506
+}, cohere.Confidence {
+	label: Spam
+	confidence: 0.99949384
+}]
+	labels: {'Non-Spam': cohere.LabelPrediction {
+	confidence: 0.0005061506
+}, 'Spam': cohere.LabelPrediction {
+	confidence: 0.99949384
+}}
+}]
